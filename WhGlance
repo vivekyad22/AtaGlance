@@ -1,2 +1,32 @@
 # AtaGlance
 
+
+
+Knowledge and configuration of AWS ( Amazon Web Services ) like EC2, RDS, Cloudfront, S3, Route53, ELB, AutoScaling, Glacier, VPC,
+IAM, bootstrap, cloudwatch, SNS, SQS, SES, Elastic Beanstalk, OpsWork & Cloudformation .
+
+Configuration & management of network authentication protocol 'kerberos' for excess security & providing single sign on by integrating GSSAPI with services like SSH etc .
+
+Configuration and deployment of Apache HTTP & Apache tomcat server for Java applications providing high availability & load balancing using connectors .
+
+Knowledge and configuration of distributed filesystems like GlusterFS & AFS . Used GlusterFS in AWS EC2 for bootstrapping & autoscaling .
+
+Managing,customizing & recovery of Applications & kernel using chroot, e2fsck, menuconfig & fakeroot . 
+
+Configuration of HA-proxy providing High Availability & load balancing for web & database servers. Using apache mod_proxy providing simple request redirection from DMZ to backend servers in a private network for further security.
+
+Hardening linux security & centralized logging by configuring kernel sysctl parameters, locking crons, fail2ban, IDS, maldet, rsyslog , logstash etc .
+
+Configuration of NFS server with autofs for automatic mounting & unmounting, effectively used in mounting roaming users home directory on login . 
+
+Configuration & management of Logical Volume Manager ( LVM ) for creating large Volume Groups & Performing operations online .
+
+Configuration & management of Bind DNS server as primary/master and secondary/slave.Using cache & forwarder only configurations to decrease the response time .
+
+Using Bash & Perl scripts for automating day to day tasks. You can view some of my bash scripts on below URL -
+
+
+Knowledge & configuration of centralized infrastructure management operating systems like Univention, Zentyal, ClearOS .
+
+
+DOCKER / LDAP /  AFS / SELINUX / PERL

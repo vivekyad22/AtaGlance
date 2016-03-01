@@ -54,7 +54,7 @@ RMN
 
   Writing efficient bash/shell scripts to monitor and automate activities & daily routine tasks.
 
-  Beginner level experience with virtualization technologies like KVM( qemu, libvirt), Oracle virtual Box & Vmware .
+  Beginner level experience with virtualization technologies like Docker, KVM( qemu, libvirt), Oracle virtual Box & Vmware .
 
   Configuration of Postfix Email servers with OpenDKIM and SPF.
 

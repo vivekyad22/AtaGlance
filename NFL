@@ -1,0 +1,65 @@
+
+
+Knowledge and configuration of AWS ( Amazon Web Services ) like EC2, RDS, Cloudfront, S3, Route53, ELB, AutoScaling, Glacier, VPC, IAM, bootstrap, cloudwatch, SNS, SQS, SES, Elastic Beanstalk, OpsWork & Cloudformation . 
+
+ Configuration & management of network authentication protocol 'kerberos' for excess security & providing single sign on by integrating GSSAPI with services like SSH etc .
+
+ Configuration of HA-proxy providing High Availability & load balancing for web & database servers. Using apache mod_proxy providing simple request redirection from DMZ to backend servers in a private network for further security.
+
+Knowledge of F5 & A10 Load Balancers . 
+
+Configuration & management of Bind DNS server as primary/master and secondary/slave.Using cache & forwarder only configurations to decrease the response time .
+
+Knowledge and configuration of distributed filesystems like GlusterFS & AFS . Used GlusterFS in AWS EC2 for bootstrapping & autoscaling .
+
+Configuration of NFS server with autofs for automatic mounting & unmounting, effectively used in mounting roaming users home directory on login .
+
+Configuration and deployment of Apache HTTP & Apache tomcat server for Java applications providing high availability & load balancing using connectors.
+
+Hardening linux security & centralized logging by configuring kernel sysctl parameters, locking crons, fail2ban, IDS, maldet, rsyslog , logstash etc .
+
+Managing,customizing & recovery of Applications & kernel using chroot, e2fsck, menuconfig & fakeroot .
+
+Configuration & management of Logical Volume Manager ( LVM ) for creating large Volume Groups & Performing operations online .
+
+Knowledge & configuration of centralized infrastructure management operating systems like Univention, Zentyal, ClearOS .
+
+Using Bash & Perl scripts for automating day to day tasks. You can view some of my bash scripts on below URL -
+
+RMN
+
+  Managing linux servers in private network and client's servers on different hostings like AWS, Linode, Hivelocity, DigitalOcean, Godaddy, Hostgator, Rackspace etc across the globe.
+
+ Installation and configuration of VPS and dedicated servers with robust LAMP server optimized with Varnish, Memcached, php FastCGI, php memcache, MySQL Innodb.
+
+ DNS and Web hosting management through Cpanel, WHM, Webmin, Virtualmin.
+
+ Installation and configuration of XMPP server with ODBC enabled connection with MySQL.
+
+ Configuring Squid proxy & package server/cache management to increase efficiency of resources.
+
+ Installation and configuration of OpenLDAP server with NFS and PAM(Pluggable Authentication Module).
+
+ Configuring Kickstart, PXE/NetBoot, DHCP, NFS, TFTP, Samba & VNC servers.
+
+ Configuration of Nagios, Observium, Zabbix, NRPE, Monit, NewRelic, Munin, Linodelongview programs for server monitoring.
+
+  Installation and configuration of FTP,subversion, DenyHosts( bruteforce attacks),Maldet appications.
+
+ Managing firewalls( iptables ), analyzing & removing security loopholes at user,LAN,DMZ & WAN levels, 
+
+  Installation and configuration of VPS and deploying Ruby on Rails and PHP applications on Amazon and Heroku/Openshift.
+
+  URL manipulations and optimizations through htaccess with mod deflate and Gzip with apache.
+
+  Writing efficient bash/shell scripts to monitor and automate activities & daily routine tasks.
+
+  Beginner level experience with virtualization technologies like KVM( qemu, libvirt), Oracle virtual Box & Vmware .
+
+  Configuration of Postfix Email servers with OpenDKIM and SPF.
+
+  Installation and configuration of OpenERP/odoo servers.
+
+  Regular endeavors to upgrade computer security & company infrastructure.
+
+                
